@@ -6,3 +6,4 @@ changes
 Creating a new branch is quick.
 test a 
 test again
+Creating a new branch is quick AND simple.
