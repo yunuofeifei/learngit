@@ -11,4 +11,5 @@ i am copy dev
 i am a parternar.
 =======
 i am a student.i am a hoster.
->>>>>>> b6de3f166f53290a490891876d76337d8e522889
+
+hahahahahostis good. 
